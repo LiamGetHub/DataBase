@@ -1,0 +1,30 @@
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+database
+
+# VS Code settings
+.vscode/
+
+# CMake build folder (if using CMake)
+build/
+
+# MacOS/Linux hidden files
+.DS_Store
+*.swp
+*.swo
+
+# Database data files (optional – only ignore if you don't want them tracked)
+data/*.db
+
+# Log files
+*.log
+
+# Core dumps
+core

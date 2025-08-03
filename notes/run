@@ -1,0 +1,2 @@
+g++ -std=c++17 main.cpp record.cpp table.cpp database.cpp -o database
+./database

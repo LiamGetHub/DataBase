@@ -1,0 +1,6 @@
+MiniDB > CREATE users id name email
+MiniDB > INSERT users 1 Alice alice@example.com
+MiniDB > INSERT users 2 Bob bob@example.com
+MiniDB > SELECT users
+MiniDB > SELECT users WHERE name Alice
+MiniDB > EXIT
